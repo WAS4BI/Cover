@@ -84,7 +84,7 @@ body {
 .twitter {
   grid-area: twitter;
   background: linear-gradient(#00b9ff, #0094ca);
-  animation: tweet 4s linear infinite;
+  animation: tweet 8s linear infinite;
   position: relative;
   overflow: hidden;
 }
@@ -100,7 +100,7 @@ body {
   border-radius: 0 0 50% 50%;
 
   z-index: -1;
-  animation: tweetbef 4s linear infinite;
+  animation: tweetbef 8s linear infinite;
 }
 
 @keyframes tweetbef {
@@ -140,7 +140,7 @@ body {
   grid-area: youtube;
 
   background: linear-gradient(#ff0000, #bd0000);
-  animation: youtuber 4s linear infinite;
+  animation: youtuber 8s linear infinite;
   box-shadow: 2px 2px 10px gray;
   overflow: hidden;
 }
@@ -156,7 +156,7 @@ body {
   border-radius: 0 0 50% 50%;
 
   z-index: -1;
-  animation: youtubebef 4s linear infinite;
+  animation: youtubebef 8s linear infinite;
 }
 
 @keyframes youtubebef {
@@ -195,7 +195,7 @@ body {
 .instagram {
   grid-area: instagram;
   background: linear-gradient(#8a3ab9, #bc2a8d);
-  animation: instagramer 4s linear infinite;
+  animation: instagramer 8s linear infinite;
   box-shadow: 2px 2px 10px gray;
   overflow: hidden;
 }
@@ -211,7 +211,7 @@ body {
   border-radius: 0 0 50% 50%;
 
   z-index: -1;
-  animation: instagrambef 4s linear infinite;
+  animation: instagrambef 8s linear infinite;
 }
 
 @keyframes instagrambef {
