@@ -196,7 +196,7 @@ body {
 
 .instagram {
   grid-area: instagram;
-  background: linear-gradient(#8a3ab9, #bc2a8d);
+  background: linear-gradient(#ff0050, #b30038);
   animation: instagramer 8s linear infinite;
   box-shadow: 2px 2px 10px gray;
   overflow: hidden;
